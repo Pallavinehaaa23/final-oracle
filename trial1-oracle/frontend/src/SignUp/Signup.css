@@ -1,0 +1,46 @@
+.container2{
+  height: 45pc;
+  width:50%;
+  margin-left: 24pc;
+  margin-top: 5pc;
+  margin: 2px solid black;
+  border-radius: 20px;
+  box-shadow: 3px 3px 5px 5px rgb(69, 69, 223);
+  background: linear-gradient(rgb(235, 157, 40),rgb(243, 227, 137));
+}
+.brand{
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  padding-top: 3pc;
+
+
+}
+#contactForm label{
+  margin-top: 1pc;
+  margin-left:3pc;
+  font-size: larger;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 400;
+  width: 60px;
+  display: inline-block;
+}
+
+#contactForm input{
+  margin-left: 5pc;
+  width:24pc;
+
+}
+.full{
+  text-align: center;
+  justify-content: center;
+  margin-top: 2pc;
+}
+.full button{
+  height: 50px;
+  width:100px;
+  background-color: green;
+  color: white;
+
+}

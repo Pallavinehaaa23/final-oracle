@@ -1,0 +1,51 @@
+.bg-body-tertiary{
+    height: 80px;
+    width: 100%;
+    background:linear-gradient(rgb(3, 3, 112),rgb(44, 44, 237));
+    
+}
+.we{
+    color: azure;
+    text-decoration: dashed;
+    text-transform: capitalize;
+    text-shadow: 3px;
+    font-size: 38px;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
+
+.home{
+    margin-left: 30px;
+    color: azure;
+    text-transform: capitalize;
+    text-shadow: 8px;
+    font-size: 22px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    
+}
+.login{
+    margin-left: 38pc;
+    color: azure;
+    text-transform: capitalize;
+    text-shadow: 8px;
+    font-size: 22px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+.login:hover{
+    background-color:white ;
+      cursor: pointer;
+    color: black;
+    transform: scale(1.1);
+}
+.home:hover{
+    background-color:white ;
+      cursor: pointer;
+    color: black;
+    transform: scale(1.1);
+}
+#collasible-nav-dropdown{
+    color: blanchedalmond;
+}
