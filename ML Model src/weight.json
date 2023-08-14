@@ -1,0 +1,108 @@
+[
+  {
+    "Job Role": "Web Development",
+    "Specific Role": "Front-end Developer",
+    "Skills": [
+      { "Language": "JavaScript", "Weight": 5 },
+      { "Language": "HTML/CSS", "Weight": 4 },
+      { "Language": "React", "Weight": 5 },
+      { "Language": "Vue.js", "Weight": 5 },
+      { "Language": "Angular", "Weight": 5 },
+      { "Language": "TypeScript", "Weight": 4 }
+    ]
+  },
+  {
+    "Job Role": "Web Development",
+    "Specific Role": "Back-end Developer",
+    "Skills": [
+      { "Language": "JavaScript/Node.js", "Weight": 4 },
+      { "Language": "Python", "Weight": 4 },
+      { "Language": "Ruby on Rails", "Weight": 3 },
+      { "Language": "Java", "Weight": 3 },
+      { "Language": "PHP", "Weight": 2 }
+    ]
+  },
+  {
+    "Job Role": "Web Development",
+    "Specific Role": "Full Stack Developer",
+    "Skills": [
+      { "Language": "JavaScript/Node.js", "Weight": 5 },
+      { "Language": "React", "Weight": 4 },
+      { "Language": "Vue.js", "Weight": 4 },
+      { "Language": "Angular", "Weight": 4 },
+      { "Language": "Python", "Weight": 4 },
+      { "Language": "Ruby on Rails", "Weight": 3 },
+      { "Language": "Java", "Weight": 3 },
+      { "Language": "PHP", "Weight": 3 }
+    ]
+  },
+  {
+    "Job Role": "Mobile App Development",
+    "Specific Role": "iOS Developer",
+    "Skills": [
+      { "Language": "Swift", "Weight": 5 },
+      { "Language": "Objective-C", "Weight": 3 }
+    ]
+  },
+  {
+    "Job Role": "Mobile App Development",
+    "Specific Role": "Android Developer",
+    "Skills": [
+      { "Language": "Kotlin", "Weight": 5 },
+      { "Language": "Java", "Weight": 4 }
+    ]
+  },
+  {
+    "Job Role": "Data Science & ML",
+    "Specific Role": "Data Scientist",
+    "Skills": [
+      { "Language": "Python", "Weight": 5 },
+      { "Language": "R", "Weight": 3 },
+      { "Language": "SQL", "Weight": 4 },
+      { "Language": "TensorFlow", "Weight": 5 },
+      { "Language": "PyTorch", "Weight": 5 },
+      { "Language": "scikit-learn", "Weight": 4 }
+    ]
+  },
+  {
+    "Job Role": "DevOps/Infrastructure",
+    "Specific Role": "DevOps Engineer",
+    "Skills": [
+      { "Language": "Docker", "Weight": 5 },
+      { "Language": "Kubernetes", "Weight": 4 },
+      { "Language": "Jenkins", "Weight": 4 },
+      { "Language": "Terraform", "Weight": 4 },
+      { "Language": "Ansible", "Weight": 3 }
+    ]
+  },
+  {
+    "Job Role": "Game Development",
+    "Specific Role": "Game Developer",
+    "Skills": [
+      { "Language": "C++", "Weight": 4 },
+      { "Language": "C#", "Weight": 4 },
+      { "Language": "Unity", "Weight": 4 },
+      { "Language": "Unreal Engine", "Weight": 4 }
+    ]
+  },
+  {
+    "Job Role": "Embedded Systems/IoT",
+    "Specific Role": "Embedded Developer",
+    "Skills": [
+      { "Language": "C/C++", "Weight": 5 },
+      { "Language": "Python", "Weight": 3 },
+      { "Language": "Arduino", "Weight": 4 },
+      { "Language": "Raspberry Pi", "Weight": 4 }
+    ]
+  },
+  {
+    "Job Role": "Web3",
+    "Specific Role": "Blockchain Developer",
+    "Skills": [
+      { "Language": "Solidity", "Weight": 5 },
+      { "Language": "Web3.js", "Weight": 5 },
+      { "Language": "Truffle", "Weight": 4 },
+      { "Language": "Ethereum", "Weight": 5 }
+    ]
+  }
+]
